@@ -2,3 +2,6 @@ Red
 Blue
 Green
 White
+yellow
+cyan
+magenta
